@@ -4,6 +4,7 @@ title: Student Blog
 ---
 # SHARON'S BLOG`
 <code style= "color: #4e804f"> Sharon's Blog
+
 !['freeform'](/images/IMG_6357.jpg)
 <img src="/images/IMG_6349.jpg" alt="Image" width="100" height="300">
 ![pic3](/images/IMG_6356.jpg)
