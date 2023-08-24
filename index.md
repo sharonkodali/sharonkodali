@@ -5,7 +5,8 @@ title: Student Blog
 # SHARON'S BLOG
 !['freeform'](/images/IMG_6349.jpg)
 <img src="/images/IMG_6349.jpg" alt="Image" width="100" height="300">
-
+!['freefor'](/images/IMG_6354.jpg) 
+![pic3](/images/IMG_6356.jpg)
 ### About me!!
 #### I am 16 years old and I am a junior at Del Norte highschool. I love listening to music and reading. Some of my favorite artists include Taylor Swift, Beabadobee, and Coldplay. I play the piano, and I am also learning how to play the guitar. I love cooking and trying out new recipes, I also like to hang out with my friends. My favorite food is probably ice cream or rice. My favorite subject in school is english and chemistry. 
 
