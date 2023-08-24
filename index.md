@@ -17,8 +17,8 @@ title: Student Blog
 
 | class       | period 
 | ----------- |:-------|
-| AP CSP      | 1      |
-| APEL        | 2      |
-| AP Bio      | 3      |
-| Calc BC     | 4      |
-| off roll    | 5      |
+| AP CSP      |   1      |
+| APEL        |   2      |
+| AP Bio      |   3      |
+| Calc BC     |   4      |
+| off roll    |   5      |
