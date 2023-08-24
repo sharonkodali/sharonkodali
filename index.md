@@ -9,10 +9,12 @@ title: Student Blog
 ### About me!!
 #### I am 16 years old and I am a junior at Del Norte highschool. 
 
+# MY CLASS SCHEDULE
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| class       | period 
+| ----------- |:-------|
+| AP CSP      | 1      |
+| APEL        | 2      |
+| AP Bio      | 3      |
+| AP Calc BC  | 4      |
+| off roll    | 5      |
