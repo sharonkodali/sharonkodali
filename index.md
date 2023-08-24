@@ -2,7 +2,6 @@
 layout: default
 title: Student Blog
 ---
-# SHARON'S BLOG`
 <code style= "color: #4e804f; font-size:36px"> Sharon's Blog
 
 !['freeform'](/images/IMG_6357.jpg)
