@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: game of life
 description: play the game of life
-type: plans
+type: tangibles 
 courses: { csse: {week: 1}, csp: {week: 2, categories: [4.A]}, csa: {week: 0} }
 categories: [C1.4]
 ---
