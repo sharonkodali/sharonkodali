@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Snake
 description: play the snake game
-type: tangibles
+type: hacks
 courses: { csse: {week: 2}, csp: {week: 2, categories: [4.A]}, csa: {week: 2} }
 categories: [C1.4]
 ---
