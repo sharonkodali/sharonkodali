@@ -1,6 +1,6 @@
 # Hi, I'm Sharon 👋
 
-**Data Science** student at **UC San Diego** (minor in Cognitive Science, Machine Learning), graduating 2028.
+**Data Science** student at **UC San Diego** (minor in Cognitive Science, Machine Learning), graduating 2029.
 I build data pipelines, ML models, and the products around them: from raw GPS pings and satellite imagery to metrics, models, and apps people use.
 
 **Looking for:** Summer 2027 data science, ML, and data engineering internships.
