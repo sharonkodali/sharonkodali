@@ -11,7 +11,7 @@ I build data pipelines, ML models, and the products around them: from raw GPS pi
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**TritonETA**](https://github.com/sharonkodali/tritoneta) | Real-time UCSD shuttle pipeline: 180K+ GPS events → a stop-level delay metric (missing from the source feed) across 61 stops → reliability scorecard and ETA training set. 15 dbt models, 29 data tests | Python, SQL, DuckDB, dbt, GitHub Actions |
+| [**TritonETA**](https://github.com/sharonkodali/tritoneta) | Real-time UCSD shuttle pipeline: 180K+ GPS events → a stop-level delay metric (missing from the source feed) across 61 stops → reliability scorecard and ETA training set. 16 dbt models, 28 data tests | Python, SQL, DuckDB, dbt, GitHub Actions |
 | [**xView2 Damage Segmentation**](https://github.com/sharonkodali/xview2-damage-segmentation) | Per-building disaster damage segmentation from pre/post satellite imagery (ACM AI). Damage macro F1 **0.475** vs 0.185 for a baseline given the true building outlines | PyTorch, U-Net |
 | [**BlinkGuard**](https://github.com/sharonkodali/blinkguard) | Real-time driver drowsiness detection from live video with per-driver calibration and an AI safety agent · [live](https://blinkguard-one.vercel.app) | Computer vision, Python, Next.js, Fetch.ai |
 | [**ResumeTailor**](https://github.com/sharonkodali/ResumeTailor) | LLM app that tailors resumes to job postings, scores relevance, and rewrites LaTeX in place · [live](https://resume-tailor-seven-zeta.vercel.app) | LLMs, FastAPI, Next.js |
